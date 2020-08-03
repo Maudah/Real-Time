@@ -33,6 +33,22 @@ Events handling
 An application to demonstrate SMARTS77  functioning.
 
 
+## Part 1
+Implementation of activating cyclic processes using RMS algorithm.
+
+## Part 2
+Implementation of Mutex (Acquire Release ect.).
+
+## Part 3
+
+Solving the Unbounded priority inversion problem by implementing if priority-inheritance
+
+#### Unbounded priority inversion and priority-inheritance
+[](https://www.embedded.com/how-to-use-priority-inheritance/)
+
+
+
+
 
 
 
