@@ -41,10 +41,9 @@ Implementation of Mutex (Acquire Release ect.).
 
 ## Part 3
 
-Solving the Unbounded priority inversion problem by implementing if priority-inheritance
-
+Solving the Unbounded priority inversion problem by the implementation of priority-inheritance
 #### Unbounded priority inversion and priority-inheritance
-[](https://www.embedded.com/how-to-use-priority-inheritance/)
+[explanation](https://www.embedded.com/how-to-use-priority-inheritance/)
 
 
 
